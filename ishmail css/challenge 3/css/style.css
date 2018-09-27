@@ -1,0 +1,43 @@
+
+html {
+  font-family: sans-serif;
+
+}
+
+body { 
+  margin: 0;
+  background: #555;
+}
+
+article {
+
+  width: 210mm;
+  height: 297mm;
+  margin: 20px auto;
+  position: relative;
+}
+
+address {
+  position: absolute;
+  bottom: 8mm;
+  right: 20mm;
+}
+
+.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: white;
+}
+
+.header h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
+article {
+
+  background-color:white;
+  border-top: 1mm solid blue;
+  border-bottom: 1mm solid blue;
+}
